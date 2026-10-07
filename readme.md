@@ -59,27 +59,27 @@ El proyecto pone en práctica:
 
 ### 🏠 Hero — Portada
 
-![Hero](assets/screenshots/hero.png)
+![Hero](img/captura%20hero.png)
 
 ### 🧩 Fundamentos del método
 
-![Fundamentos](assets/screenshots/fundamentos.png)
+![Fundamentos](img/captura_fundamentos.png)
 
 ### 👶 Niveles — Maternal y Preescolar
 
-![Niveles](assets/screenshots/niveles.png)
+![Niveles](img/captura_niveles.png)
 
 ### 🏡 Ambientes preparados
 
-![Ambientes](assets/screenshots/ambientes.png)
+![Ambientes](img/captura_ambientes.png)
 
 ### 💬 Testimonios
 
-![Testimonios](assets/screenshots/testimonios.png)
+![Testimonios](img/captura_testimonios.png)
 
 ### 📝 Formulario de admisiones
 
-![Formulario](assets/screenshots/formulario.png)
+![Formulario](img/captura_formulario.png)
 
 ---
 
